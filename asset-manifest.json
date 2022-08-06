@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://pajani.github.io/csb-ybjnni/static/css/main.06e6ae32.chunk.css",
+    "main.css": "https://pajani.github.io/csb-ybjnni/static/css/main.4ffbf5cc.chunk.css",
     "main.js": "https://pajani.github.io/csb-ybjnni/static/js/main.30eb5c09.chunk.js",
     "main.js.map": "https://pajani.github.io/csb-ybjnni/static/js/main.30eb5c09.chunk.js.map",
     "runtime-main.js": "https://pajani.github.io/csb-ybjnni/static/js/runtime-main.558119f4.js",
@@ -8,13 +8,13 @@
     "static/js/2.ed8375ff.chunk.js": "https://pajani.github.io/csb-ybjnni/static/js/2.ed8375ff.chunk.js",
     "static/js/2.ed8375ff.chunk.js.map": "https://pajani.github.io/csb-ybjnni/static/js/2.ed8375ff.chunk.js.map",
     "index.html": "https://pajani.github.io/csb-ybjnni/index.html",
-    "static/css/main.06e6ae32.chunk.css.map": "https://pajani.github.io/csb-ybjnni/static/css/main.06e6ae32.chunk.css.map",
+    "static/css/main.4ffbf5cc.chunk.css.map": "https://pajani.github.io/csb-ybjnni/static/css/main.4ffbf5cc.chunk.css.map",
     "static/js/2.ed8375ff.chunk.js.LICENSE.txt": "https://pajani.github.io/csb-ybjnni/static/js/2.ed8375ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.558119f4.js",
     "static/js/2.ed8375ff.chunk.js",
-    "static/css/main.06e6ae32.chunk.css",
+    "static/css/main.4ffbf5cc.chunk.css",
     "static/js/main.30eb5c09.chunk.js"
   ]
 }
