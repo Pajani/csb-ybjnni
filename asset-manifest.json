@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://pajani.github.io/csb-ybjnni/static/css/main.b950aec8.chunk.css",
-    "main.js": "https://pajani.github.io/csb-ybjnni/static/js/main.13b6351c.chunk.js",
-    "main.js.map": "https://pajani.github.io/csb-ybjnni/static/js/main.13b6351c.chunk.js.map",
+    "main.js": "https://pajani.github.io/csb-ybjnni/static/js/main.22a5633b.chunk.js",
+    "main.js.map": "https://pajani.github.io/csb-ybjnni/static/js/main.22a5633b.chunk.js.map",
     "runtime-main.js": "https://pajani.github.io/csb-ybjnni/static/js/runtime-main.558119f4.js",
     "runtime-main.js.map": "https://pajani.github.io/csb-ybjnni/static/js/runtime-main.558119f4.js.map",
     "static/js/2.ed8375ff.chunk.js": "https://pajani.github.io/csb-ybjnni/static/js/2.ed8375ff.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.558119f4.js",
     "static/js/2.ed8375ff.chunk.js",
     "static/css/main.b950aec8.chunk.css",
-    "static/js/main.13b6351c.chunk.js"
+    "static/js/main.22a5633b.chunk.js"
   ]
 }
